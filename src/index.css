@@ -1,0 +1,9 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body{
+  display:grid;
+  background: #ffffff;
+  height: 100vh;
+  justify-content: center;
+
+}

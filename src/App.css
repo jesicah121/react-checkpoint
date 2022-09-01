@@ -1,0 +1,25 @@
+
+.capewood-logo{
+  width:250px;
+  height:150px;
+}
+#sign-in-form{
+  max-width:330px;
+  
+}
+.form-control:focus{
+  z-index: 5;
+}
+h1{
+  font-family:montserrat;
+  
+}
+.d-grid{
+  font-family:montserrat;
+}
+.d-flex{
+  font-family:montserrat;
+}
+#main-container{
+  place-items: center center;
+}
